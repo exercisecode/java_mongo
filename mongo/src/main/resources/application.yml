@@ -1,0 +1,10 @@
+
+server: 
+    port: 20000
+    
+spring:
+    data: 
+        mongodb: 
+            uri: mongodb://boxfish:boxfish2016@192.168.1.253:27017,192.168.1.253:27017/admin
+            
+                
