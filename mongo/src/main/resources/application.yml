@@ -5,6 +5,6 @@ server:
 spring:
     data: 
         mongodb: 
-            uri: mongodb://boxfish:boxfish2016@192.168.1.253:27017,192.168.1.253:27017/admin
+            uri: mongodb://li:li@192.168.1.253:27017,192.168.1.253:27017/admin
             
                 
